@@ -1,6 +1,6 @@
 {
   "name": "backender",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "gulp plugin to test and mock baxckend server",
   "main": "gulpfile.js",
   "license": "MIT",
